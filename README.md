@@ -13,5 +13,5 @@ This project was developed with the goal to learn about API-Requests and Alexa s
 
 # ⚠️Limitations of this Repository
 Most of the Alexa-related components are handled on the Alexa skill development platform and not uploaded in this Repository.
-Furthermore I only intend to use this from my alexa device at home, teherefore the starting location is fixed.
+Furthermore I only intend to use this from my alexa device at home, therefore the starting location is fixed.
 
