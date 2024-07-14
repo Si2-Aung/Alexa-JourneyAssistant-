@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import Constants
 
 
-def getAlexaFormattedTravelTime(destinationId):
+def get_alexa_formatted_travel_time(destinationId):
     response = fetch_Trips_to_destination(destinationId)
     validate(response)
     trip = extract_FirstTrip_fromResponse(response)
