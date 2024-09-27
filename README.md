@@ -9,7 +9,7 @@ This project was developed with the goal to learn about API-Requests and Alexa s
 5. If so "TravelDetails.more_details_for_trip()" is called to further process the response and provide a detailed trip plan. Otherwise, the session ends.
 
 # 📝Result examples
-![RESULTS](Example-Picture.png)
+![RESULTS](Example.png)
 
 # ⚠️Limitations of this Repository
 Most of the Alexa-related components are handled on the Alexa skill development platform and not uploaded in this Repository.
